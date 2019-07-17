@@ -20,3 +20,15 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 * [Quantum Statistical Inference](https://arxiv.org/abs/1812.04877) (2018)
 * [Quantum hardness of learning shallow classical circuits](https://arxiv.org/abs/1903.02840) (2019)
+
+### Variational circuits
+
+* [Quantum Boltzmann Machine](https://arxiv.org/abs/1601.02036) (2016)
+* [Quantum Perceptron Model](https://arxiv.org/abs/1602.04799) (2016)
+* [Quantum autoencoders via quantum adders with genetic algorithms](https://arxiv.org/abs/1709.07409) (2017)
+* [A Quantum Hopfield Neural Network](https://arxiv.org/abs/1710.03599) (2017)
+* [Automated optimization of large quantum circuits with continuous parameters](https://arxiv.org/abs/1710.07345) (2017)
+* [Quantum Neuron: an elementary building block for machine learning on quantum computers](https://arxiv.org/abs/1711.11240) (2017)
+* [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/abs/1712.05304) (2017)
+* [A generative modeling approach for benchmarking and training shallow quantum circuits](https://arxiv.org/abs/1801.07686) (2018)
+* [Universal quantum perceptron as efficient unitary approximators](https://arxiv.org/abs/1801.00934) (2018)
