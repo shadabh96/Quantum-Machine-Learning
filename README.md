@@ -13,3 +13,10 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/abs/1708.09757) (2017)
 * [Quantum machine learning for data scientists](https://arxiv.org/abs/1804.10068) (2018)
 * [Supervised Learning with Quantum Computers](https://www.springer.com/gp/book/9783319964232) (2018)
+
+## Discrete-variables quantum computing
+
+### Theory
+
+* [Quantum Statistical Inference](https://arxiv.org/abs/1812.04877) (2018)
+* [Quantum hardness of learning shallow classical circuits](https://arxiv.org/abs/1903.02840) (2019)
