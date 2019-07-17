@@ -49,3 +49,8 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Efficient Learning for Deep Quantum Neural Networks](https://arxiv.org/abs/1902.10445) (2019)
 * [Parameterized quantum circuits as machine learning models](https://arxiv.org/abs/1906.07682) (2019)
 * [Machine Learning Phase Transitions with a Quantum Processor](https://arxiv.org/abs/1906.10155) (2019)
+
+### Tensor Networks
+
+* [Towards Quantum Machine Learning with Tensor Networks](https://arxiv.org/abs/1803.11537) (2018)
+* [Hierarchical quantum classifiers](https://arxiv.org/abs/1804.03680v1) (2018)
