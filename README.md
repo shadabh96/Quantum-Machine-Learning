@@ -54,3 +54,14 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 * [Towards Quantum Machine Learning with Tensor Networks](https://arxiv.org/abs/1803.11537) (2018)
 * [Hierarchical quantum classifiers](https://arxiv.org/abs/1804.03680v1) (2018)
+
+### Reinforcement learning
+
+* [Quantum reinforcement learning](https://arxiv.org/abs/0810.3828) (2008)
+* [Reinforcement Learning Using Quantum Boltzmann Machines](https://arxiv.org/abs/1612.05695) (2016)
+* [Generalized Quantum Reinforcement Learning with Quantum Technologies](https://arxiv.org/abs/1709.07848) (2017)
+
+### Optimization
+
+* [Quantum gradient descent and Newton’s method for constrained polynomial optimization](https://arxiv.org/abs/1612.01789) (2016)
+* [Quantum algorithms and lower bounds for convex optimization](https://arxiv.org/pdf/1809.01731.pdf) (2018)
